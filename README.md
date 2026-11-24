@@ -6,7 +6,7 @@
 
 One office joke, at most 199 characters, for [Make the AI Judge Laugh: Office Jokes](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a) on make.fun.
 
-The joke: "I survived a meeting that could have been an email. My reward was another meeting about the meeting."
+The joke: "Our team building was trust falls. I fell. Nobody caught me. HR called it 'a learning experience.'"
 
 `main.ts` writes the joke to `${OUTPUT_DIR || '/output'}/entry.txt` with a 1–199 character guard.
 

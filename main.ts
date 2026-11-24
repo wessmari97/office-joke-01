@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const JOKE = "I survived a meeting that could have been an email. My reward was another meeting about the meeting.";
-// Every office worker has lived this one; the punchline is the second meeting.
+const JOKE = "Our team building was trust falls. I fell. Nobody caught me. HR called it 'a learning experience.'";
+// Trust falls, but nobody caught anyone — and HR rebranded the failure.
 
 const outDir = process.env.OUTPUT_DIR || "/output";
 mkdirSync(outDir, { recursive: true });
